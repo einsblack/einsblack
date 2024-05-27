@@ -163,10 +163,3 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="30" alt="windows8 logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/einsblack/einsblack/output/snake.svg" alt="Snake animation" />
-
-###
