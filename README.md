@@ -138,7 +138,7 @@
 
 ###
 
-<h2 align="left">💻 Familiar</h2>
+<h2 align="left">💻 Familiar operating systems</h2>
 
 ###
 
