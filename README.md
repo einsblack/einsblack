@@ -10,8 +10,19 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on [SpectraWorld](https://spectraworld.de)<br><br>- 🌱 I’m currently learning More LUA<br><br>- 👯 In collab with SpectraWorld<br><br>- 💻 My Portfolio https://einsblack.github.io<br><br>- 💬 Ask me about HTML<br><br>- 📫 How to reach me einsblack@spectraworld.de<br><br>- ⚡ Fun fact I always try to help people</p>
+- 🔭 I’m currently working on [SpectraWorld](https://spectraworld.de)
 
+- 🌱 I’m currently learning **More LUA**
+
+- 👯 In collab with [SpectraWorld](https://github.com/SpectraWorld)
+
+- 💻 My Portfolio [https://einsblack.github.io](https://einsblack.github.io)
+
+- 💬 Ask me about **HTML**
+
+- 📫 How to reach me **einsblack@spectraworld.de**
+
+- ⚡ Fun fact **I always try to help people**
 ###
 
 <h2 align="left">🌐 Socials</h2>
