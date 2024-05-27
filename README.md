@@ -3,6 +3,7 @@
 ###
 
 <h2 align="center">Hi 👋! My name is eins black and I'm from Luxembourg 🇱🇺</h2>
+<p>Intermediate Developer. In my head I am a Noob so I dont really know😂</p>
 
 ###
 
