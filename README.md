@@ -6,6 +6,12 @@
 
 ###
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=einsblack" alt="einsblack" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/eins_blackyt" target="blank"><img src="https://img.shields.io/twitter/follow/eins_blackyt?logo=twitter&style=for-the-badge" alt="eins_blackyt" /></a> </p>
+
+###
+
 <h1 align="left">💫 About Me</h1>
 
 ###
